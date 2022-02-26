@@ -16,7 +16,7 @@
     <button @click="priceSortReverse">가격 역순 정렬</button>
     <button @click="charSort">가나다 순 정렬</button>
     <button @click="filterSort">50만원 이하 상품</button>
-    <button @click="sortBack">되돌리기</button>
+    <button @click="sortBack">되돌리기ㅋ</button>
 
     <Card
         @openModal="
